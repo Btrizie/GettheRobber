@@ -1,5 +1,5 @@
 # Get the Robber
-Get the robber is a game cerated in java that collects money throught a given path.
+Get the robber is a game created in java that collects money throught a given path.
 
 The computer, playing the role of a police officer has to follow a map left by the robbers and collect the money dropped.
 
